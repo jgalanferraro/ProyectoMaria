@@ -214,6 +214,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Images\HeaderImage.jpg" />
     <Content Include="MainPage.html" />
     <Content Include="Marca.html" />
     <Content Include="Scripts\ai.0.22.19-build00125.js" />
